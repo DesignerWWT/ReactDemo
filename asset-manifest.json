@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactDemo/static/css/main.91619910.css",
+    "main.js": "/ReactDemo/static/js/main.b3cfccae.js",
+    "static/media/bg-front-image.png": "/ReactDemo/static/media/bg-front-image.ab05a3821c38d460f36a.png",
+    "static/media/j3.png": "/ReactDemo/static/media/j3.c8b0e4116384e3178ac5.png",
+    "static/media/ji2.png": "/ReactDemo/static/media/ji2.8968d582d6a3ef59d41e.png",
+    "static/media/ji1.png": "/ReactDemo/static/media/ji1.d075f954ad9dd5e98888.png",
+    "static/media/logo.png": "/ReactDemo/static/media/logo.f1d1c86fc6028af51056.png",
+    "static/media/icon2.svg": "/ReactDemo/static/media/icon2.d7ca87b0fa0351cdc0c69876d4b4bba7.svg",
+    "static/media/icon1.svg": "/ReactDemo/static/media/icon1.29b105c68a479352e0bfda5fa16db34f.svg",
+    "static/media/icon3.svg": "/ReactDemo/static/media/icon3.d2f547294e68650bf579c53288f6b1db.svg",
+    "static/media/icon4.svg": "/ReactDemo/static/media/icon4.d67ddd9c95d4224f451b2320ac957e07.svg",
+    "static/media/icon5.svg": "/ReactDemo/static/media/icon5.fb364f4345ede0bd39e46f89a326dd7f.svg",
+    "index.html": "/ReactDemo/index.html",
+    "main.91619910.css.map": "/ReactDemo/static/css/main.91619910.css.map",
+    "main.b3cfccae.js.map": "/ReactDemo/static/js/main.b3cfccae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91619910.css",
+    "static/js/main.b3cfccae.js"
+  ]
+}
